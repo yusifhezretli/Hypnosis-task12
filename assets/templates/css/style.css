@@ -591,7 +591,7 @@ header .container {
 
 }
 
-@media screen and (max-width: 790px) and (min-width: 590px) {
+@media screen and (max-width: 790px) and (min-width: 576px) {
 
 
     .cristiana-social a {
@@ -998,7 +998,7 @@ header .container {
 
 }
 
-@media screen and (max-width: 790px) and (min-width: 590px) {
+@media screen and (max-width: 790px) and (min-width: 576px) {
     .related-container {
         flex-direction: column;
 
@@ -1168,7 +1168,7 @@ header .container {
     margin-top: 26px;
 }
 
-@media screen and (max-width: 790px) and (min-width: 590px) {
+@media screen and (max-width: 790px) and (min-width: 576px) {
     .Subscribe .form {
         width: 575px;
         height: 64px;
@@ -1313,7 +1313,7 @@ footer {
     text-decoration: underline;
 }
 
-@media screen and (max-width: 992px) and (min-width: 590px) {
+@media screen and (max-width: 992px) and (min-width: 576px) {
     .footer-head {
         flex-direction: column;
         border-bottom: none;
